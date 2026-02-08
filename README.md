@@ -1,5 +1,3 @@
-# geo442-tree-canopy-equity-chicago
-
 # Tree Canopy Equity in Chicago
 
 ## Overview
